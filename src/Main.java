@@ -1,5 +1,4 @@
 public class Main {
-
     
     public static void main(String[] args) {
         System.out.println(4 * (1.0 - (1 / 3) + (1 / 5) -
